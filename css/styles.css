@@ -1,3 +1,51 @@
- logoBig{
-    background-image: url(".../images/landing.jpg")
+ .logoBig{
+    background-image: url("../images/landing.jpg");
+
+}
+  .logoBig{
+          text-align: center;
+  }
+
+.img1 {
+  background-image: url('../images/breakfast.jpg');
+  border-radius: : 70px
+
+}
+.img2 {
+  background-image: url('../images/lunch.jpg');
+}
+.img3 {
+  background-image: url('../images/dinner.jpg');
+}
+ .well{
+     text-align: right;
+ }
+ .fasty{
+    text-align: center;
+ }
+#Drinks{
+      text-align: right;
+}
+#drnks {
+     text-align: center;
+}
+.ff{
+   color: brown;
+
+}
+#foods{
+  background-image: url('../images/foodsBg.jpg');
+}
+#img1{
+   background-image: url('../images/chickenBurger.jpg');
+}
+#img2{
+   background-image: url('../images/beefBurger.jpg');
+}
+#img3{
+    background-image: url('../images/chickenPizza.jpg');
+}
+.our{
+    color: maroon;
+    font-size: 20px
 }
