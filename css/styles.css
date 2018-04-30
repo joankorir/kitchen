@@ -1,27 +1,39 @@
  .logoBig{
     background-image: url("../images/landing.jpg");
+    padding: 100px;
 
 }
   .logoBig{
-          text-align: center;
+      text-align: center;
+
   }
 
 .img1 {
   background-image: url('../images/breakfast.jpg');
-  border-radius: : 70px
-
+  padding: 95px;
+  height: 190px;
+  font-style: italic;
 }
 .img2 {
   background-image: url('../images/lunch.jpg');
+  padding: 95px;
+  height: 190px;
+  font-style: italic;
+
+
 }
 .img3 {
   background-image: url('../images/dinner.jpg');
+  padding: 95px;
+  height: 190px;
+  font-style:italic;
+  width: 18.80%;
 }
  .well{
      text-align: right;
  }
  .fasty{
-    text-align: center;
+    text-align: left;
  }
 #Drinks{
       text-align: right;
@@ -31,21 +43,26 @@
 }
 .ff{
    color: brown;
+   background-image: url('../images/foodsBg.jpg');
 
 }
-#foods{
-  background-image: url('../images/foodsBg.jpg');
-}
-#img1{
-   background-image: url('../images/chickenBurger.jpg');
-}
-#img2{
-   background-image: url('../images/beefBurger.jpg');
-}
-#img3{
-    background-image: url('../images/chickenPizza.jpg');
-}
+ #panel-body{
+     padding:70px;
+     text-align: center;
+     margin:70px;
+     background-color: white;
+
+ }
+ .panel{
+    color:  tomato;
+    font-size: 20px;
+ }
+
 .our{
     color: maroon;
     font-size: 20px
+}
+.me{
+    text-align: center;
+    background-color: brown;
 }
