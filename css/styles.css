@@ -58,7 +58,7 @@
 
 }
 #drnks{
-  text-align: left;
+  direction: ltr;
 }
 .ff{
    color: brown;
