@@ -1,33 +1,51 @@
  .logoBig{
     background-image: url("../images/landing.jpg");
     padding: 100px;
+  }
+  .container{
+    padding-left: 1px;
+    padding-right: 1px;
 
-}
+  }
+
   .logoBig{
       text-align: center;
+
+  }
+  #class1{
+      height:105px;
+      font-size: 15px;
+      padding: 47.5px;
+  }
+  #class2{
+    background-color:tomato;
+    padding: 47.5px;
+    height: 105px;
+    font-size: 15px;
 
   }
 
 .img1 {
   background-image: url('../images/breakfast.jpg');
   padding: 95px;
-  height: 190px;
+  height: 210px;
   font-style: italic;
 }
 .img2 {
   background-image: url('../images/lunch.jpg');
   padding: 95px;
-  height: 190px;
+  height: 210px;
   font-style: italic;
+
 
 
 }
 .img3 {
   background-image: url('../images/dinner.jpg');
   padding: 95px;
-  height: 190px;
+  height: 210px;
   font-style:italic;
-  width: 18.80%;
+  width: 18.0%;
 }
  .well{
      text-align: right;
@@ -35,11 +53,11 @@
  .fasty{
     text-align: left;
  }
-#Drinks{
-      text-align: right;
+#Drinks {
+    text-align:right;
 }
-#drnks {
-     text-align: center;
+#drnks{
+  text-align: left;
 }
 .ff{
    color: brown;
@@ -53,16 +71,50 @@
      background-color: white;
 
  }
+
  .panel{
     color:  tomato;
     font-size: 20px;
  }
+ .panel-{
+   color: tomato;
+ }
+ .row1{
+     text-align: center;
+     height: 190px;
+     border-right: solid grey;
+     padding-left: 90px;
+     padding-right: 90px;
+ }
+ .position{
+    color: tomato;
+    font-size: 20px;
 
-.our{
-    color: maroon;
-    font-size: 20px
-}
-.me{
+ }
+ span {
+     color: tomato;
+ }
+ .row2{
+    background-image: url('../images/subscribe.jpg');
+    padding: 9%;
     text-align: center;
-    background-color: brown;
+ }
+ .trans{
+      border-top: none;
+      padding: 5px;
+      color :white;
+ }
+ .lorem{
+     padding:5px;
+    border-radius: 4px;
+    background-color: tomato;
+}
+.icon{
+    color: white;
+    font-size: 24px;
+}
+.icon2{
+   background-color: tomato;
+   text-align: center;
+
 }
